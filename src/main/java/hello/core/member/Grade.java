@@ -1,5 +1,5 @@
 package hello.core.member;
 
 public enum Grade {
-    VASIC,VIP
+    BASIC,VIP
 }
